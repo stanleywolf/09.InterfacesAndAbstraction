@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\09.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.pdb
